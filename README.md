@@ -2,6 +2,8 @@
 
 Bundle Tailwind CSS stylesheet as a [Rollup](https://rollupjs.org/) asset.
 
+**Original was no longer being maintained so I'm gonna try and update it to the latest tailwind version**
+
 ## Install
 
 ```sh
